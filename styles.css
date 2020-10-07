@@ -1,0 +1,528 @@
+svg{
+  width: 600px;
+  height: 600px;
+  min-width: 600px;
+  transition-duration: 10s;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  }
+
+.background{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-image: url(https://mcreator.net/sites/default/files/2019-07/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  transition-duration: 10s;
+}
+
+rect{
+  transition-duration: 10s;
+  transition-timing-function: ease-in-out;
+}
+
+svg{
+  z-index: 69;
+  position: absolute;
+}
+
+@media (max-width:700px) {
+  body{
+
+  }
+
+  .background{
+    filter: none;
+    -webkit-filter: none;
+  }
+
+  svg{
+    padding: 30% 30% ;
+    transition-duration: 10s;
+
+  }
+
+  rect{
+    transition-duration: 10s;
+    transition-timing-function: ease-in-out;
+
+  }
+
+  .rect1{
+    x:0;
+    y:0;
+  }
+
+  .rect2{
+    x:25;
+    y:0;
+  }
+
+  .rect3{
+    x:50;
+    y:0;
+  }
+
+  .rect4{
+    x:75;
+    y:0;
+  }
+
+  .rect5{
+    x:100;
+    y:0;
+  }
+
+  .rect6{
+    x:125;
+    y:0;
+  }
+
+  .rect7{
+    x:150;
+    y:0;
+  }
+
+  .rect8{
+    x:175;
+    y:0;
+  }
+
+  .rect9{
+    x:200;
+    y:0;
+  }
+
+  .rect10{
+    x:225;
+    y:0;
+  }
+
+  .rect11{
+    x:0;
+    y:25;
+  }
+
+  .rect12{
+    x:25;
+    y:25;
+  }
+
+  .rect13{
+    x:50;
+    y:25;
+  }
+
+  .rect14{
+    x:75;
+    y:25;
+  }
+
+  .rect15{
+    x:100;
+    y:25;
+  }
+
+  .rect16{
+    x:125;
+    y:25;
+  }
+
+  .rect17{
+    x:150;
+    y:25;
+  }
+
+  .rect18{
+    x:175;
+    y:25;
+  }
+
+  .rect19{
+    x:200;
+    y:25;
+  }
+
+  .rect20{
+    x:225;
+    y:25;
+  }
+
+
+  .rect21{
+    x:0;
+    y:50;
+  }
+
+  .rect22{
+    x:25;
+    y:50;
+  }
+
+  .rect23{
+    x:50;
+    y:50;
+  }
+
+  .rect24{
+    x:75;
+    y:50;
+  }
+
+  .rect25{
+    x:100;
+    y:50;
+  }
+
+  .rect26{
+    x:125;
+    y:50;
+  }
+
+  .rect27{
+    x:150;
+    y:50;
+  }
+
+  .rect28{
+    x:175;
+    y:50;
+  }
+
+  .rect29{
+    x:200;
+    y:50;
+  }
+
+  .rect30{
+    x:225;
+    y:50;
+  }
+
+
+  .rect31{
+    x:0;
+    y:75;
+  }
+
+  .rect32{
+    x:25;
+    y:75;
+  }
+
+  .rect33{
+    x:50;
+    y:75;
+  }
+
+  .rect34{
+    x:75;
+    y:75;
+  }
+
+  .rect35{
+    x:100;
+    y:75;
+  }
+
+  .rect36{
+    x:125;
+    y:75;
+  }
+
+  .rect37{
+    x:150;
+    y:75;
+  }
+
+  .rect38{
+    x:175;
+    y:75;
+  }
+
+  .rect39{
+    x:200;
+    y:75;
+  }
+
+  .rect40{
+    x:225;
+    y:75;
+  }
+
+
+  .rect41{
+    x:0;
+    y:100;
+  }
+
+  .rect42{
+    x:25;
+    y:100;
+  }
+
+  .rect43{
+    x:50;
+    y:100;
+  }
+
+  .rect44{
+    x:75;
+    y:100;
+  }
+
+  .rect45{
+    x:100;
+    y:100;
+  }
+
+  .rect46{
+    x:125;
+    y:100;
+  }
+
+  .rect47{
+    x:150;
+    y:100;
+  }
+
+  .rect48{
+    x:175;
+    y:100;
+  }
+
+  .rect49{
+    x:200;
+    y:100;
+  }
+
+  .rect50{
+    x:225;
+    y:100;
+  }
+
+
+  .rect51{
+    x:0;
+    y:125;
+  }
+
+  .rect52{
+    x:25;
+    y:125;
+  }
+
+  .rect53{
+    x:50;
+    y:125;
+  }
+
+  .rect54{
+    x:75;
+    y:125;
+  }
+
+  .rect55{
+    x:100;
+    y:125;
+  }
+
+  .rect56{
+    x:125;
+    y:125;
+  }
+
+  .rect57{
+    x:150;
+    y:125;
+  }
+
+  .rect58{
+    x:175;
+    y:125;
+  }
+
+  .rect59{
+    x:200;
+    y:125;
+  }
+
+  .rect60{
+    x:225;
+    y:125;
+  }
+
+
+  .rect61{
+    x:0;
+    y:150;
+  }
+
+  .rect62{
+    x:25;
+    y:150;
+  }
+
+  .rect63{
+    x:50;
+    y:150;
+  }
+
+  .rect64{
+    x:75;
+    y:150;
+  }
+
+  .rect65{
+    x:100;
+    y:150;
+  }
+
+  .rect66{
+    x:125;
+    y:150;
+  }
+
+  .rect67{
+    x:150;
+    y:150;
+  }
+
+  .rect68{
+    x:175;
+    y:150;
+  }
+
+  .rect69{
+    x:200;
+    y:150;
+  }
+
+  .rect70{
+    x:225;
+    y:150;
+  }
+
+
+  .rect71{
+    x:0;
+    y:175;
+  }
+
+  .rect72{
+    x:25;
+    y:175;
+  }
+
+  .rect73{
+    x:50;
+    y:175;
+  }
+
+  .rect74{
+    x:75;
+    y:175;
+  }
+
+  .rect75{
+    x:100;
+    y:175;
+  }
+
+  .rect76{
+    x:125;
+    y:175;
+  }
+
+  .rect77{
+    x:150;
+    y:175;
+  }
+
+  .rect78{
+    x:175;
+    y:175;
+  }
+
+  .rect79{
+    x:200;
+    y:175;
+  }
+
+  .rect80{
+    x:225;
+    y:175;
+  }
+
+
+  .rect81{
+    x:0;
+    y:200;
+  }
+
+  .rect82{
+    x:25;
+    y:200;
+  }
+
+  .rect83{
+    x:50;
+    y:200;
+  }
+
+  .rect84{
+    x:75;
+    y:200;
+  }
+
+  .rect85{
+    x:100;
+    y:200;
+  }
+
+  .rect86{
+    x:125;
+    y:200;
+  }
+
+  .rect87{
+    x:150;
+    y:200;
+  }
+
+  .rect88{
+    x:175;
+    y:200;
+  }
+
+  .rect89{
+    x:200;
+    y:200;
+  }
+
+  .rect90{
+    x:225;
+    y:200;
+  }
+
+
+
+
+}
+
+/*
+dark green : #3a8325
+green : #4b9a3d
+lime : #48b235
+*/
